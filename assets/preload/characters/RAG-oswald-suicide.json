@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SUICIDE OSWALD IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SUICIDE OSWALD LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SUICIDE OSWALD DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				209
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SUICIDE OSWALD UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-69
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SUICIDE OSWALD RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				21,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "SUICIDE OSWALD SCREAM0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RAG-OSWALD-PHASE2",
+	"position": [
+		20,
+		685
+	],
+	"healthicon": "oswalds",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		72,
+		73
+	],
+	"camera_position": [
+		-275,
+		-30
+	],
+	"sing_duration": 4.5,
+	"scale": 1.2
+}

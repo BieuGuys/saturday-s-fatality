@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oswald Banjo ALT Idle"
+		},
+		{
+			"offsets": [
+				88,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oswald Banjo ALT Left"
+		},
+		{
+			"offsets": [
+				-29,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oswald Banjo ALT Down"
+		},
+		{
+			"offsets": [
+				-67,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Oswald Banjo ALT Right"
+		},
+		{
+			"offsets": [
+				50,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Oswald Banjo ALT Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OSWALD_AND_BANJO",
+	"position": [
+		-165,
+		620
+	],
+	"healthicon": "Oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		50,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.15
+}

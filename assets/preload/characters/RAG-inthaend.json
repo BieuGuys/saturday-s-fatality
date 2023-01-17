@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				472,
+				70
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "OSWALD GUN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				65,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "in tha end",
+			"indices": [],
+			"name": "OSWALD DIALOGUE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RAG-OSWALD-SUICIDE-DIALOGUE",
+	"position": [
+		-190,
+		640
+	],
+	"healthicon": "Oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

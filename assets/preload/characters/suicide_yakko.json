@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Suicide Yakko Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Suicide Yakko Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				515,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Suicide Yakko Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				173
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Suicide Yakko Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Suicide Yakko Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Suicide_Yakko",
+	"position": [
+		80,
+		680
+	],
+	"healthicon": "suicide-yakko",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		45,
+		42
+	],
+	"camera_position": [
+		-40,
+		-97
+	],
+	"sing_duration": 4.5,
+	"scale": 1.48
+}

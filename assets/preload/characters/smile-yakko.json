@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Smile Yakko Right"
+		},
+		{
+			"offsets": [
+				128,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Smile Yakko Left"
+		},
+		{
+			"offsets": [
+				-2,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Smile Yakko Up"
+		},
+		{
+			"offsets": [
+				0,
+				-144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Smile Yakko Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Smile Yakko Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Smile_Yakko",
+	"position": [
+		55,
+		545
+	],
+	"healthicon": "smile-yakko",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		72,
+		73
+	],
+	"camera_position": [
+		20,
+		-156
+	],
+	"sing_duration": 4,
+	"scale": 1.48
+}

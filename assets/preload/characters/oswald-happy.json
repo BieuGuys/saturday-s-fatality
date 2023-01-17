@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Happy Oswald Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-197,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Happy Oswald Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Happy Oswald Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Happy Oswald Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Happy Oswald Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				46
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Happy Oswald jijijija",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OSWALD_HAPPY",
+	"position": [
+		-220,
+		660
+	],
+	"healthicon": "Oswald-what",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		145,
+		13
+	],
+	"sing_duration": 4,
+	"scale": 1.18
+}

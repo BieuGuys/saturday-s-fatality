@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Adrian P Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "Adrian P Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Adrian P Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "Adrian P Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Adrian P Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Piano_Adrian",
+	"position": [
+		318,
+		198
+	],
+	"healthicon": "adrian",
+	"flip_x": false,
+	"healthbar_colors": [
+		131,
+		131,
+		131
+	],
+	"camera_position": [
+		-380,
+		-15
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.5
+}

@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				3
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Toony Pasta Ink Attack",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				3
+			],
+			"anim": "attack-loop",
+			"fps": 24,
+			"name": "Toony Pasta Ink Attack LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Toony Pasta Ink Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Toony Pasta Ink Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Toony Pasta Ink Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Toony Pasta Ink Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Toony Pasta Ink Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				3
+			],
+			"indices": [
+				19,
+				18,
+				17,
+				16,
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "attack-ends",
+			"loop": false,
+			"name": "Toony Pasta Ink Attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Toony_Bendy",
+	"position": [
+		0,
+		510
+	],
+	"healthicon": "bendy",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-100,
+		-110
+	],
+	"sing_duration": 3,
+	"scale": 1.05
+}

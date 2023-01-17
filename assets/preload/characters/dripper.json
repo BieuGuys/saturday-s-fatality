@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-105,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dripper Right"
+		},
+		{
+			"offsets": [
+				141,
+				-85
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dripper Left"
+		},
+		{
+			"offsets": [
+				241,
+				82
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dripper Up"
+		},
+		{
+			"offsets": [
+				3,
+				-23
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dripper Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dripper Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cheddar_D_Side",
+	"position": [
+		-190,
+		-200
+	],
+	"healthicon": "carrots",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		70,
+		63
+	],
+	"camera_position": [
+		-220,
+		-110
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.1
+}

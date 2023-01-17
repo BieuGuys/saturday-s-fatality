@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "minigun oswald down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "minigun oswald idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "minigun oswald left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				178
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "oswald disparando a la mierda minigun",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				309
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "minigun oswald up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				124
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "minigun oswald right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MINIGUN OSWALD",
+	"position": [
+		0,
+		725
+	],
+	"healthicon": "oswald-hell",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		72,
+		73
+	],
+	"camera_position": [
+		-195,
+		-22
+	],
+	"sing_duration": 4.1,
+	"scale": 1.2
+}

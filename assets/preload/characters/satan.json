@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Satan D Idle"
+		},
+		{
+			"offsets": [
+				17,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Satan D Left"
+		},
+		{
+			"offsets": [
+				-242,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Satan D Down"
+		},
+		{
+			"offsets": [
+				25,
+				316
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Satan D Up"
+		},
+		{
+			"offsets": [
+				28,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Satan D Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				465,
+				720
+			],
+			"anim": "gone",
+			"fps": 24,
+			"name": "Satan D desaparece que cagon",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				467,
+				723
+			],
+			"anim": "spawn",
+			"fps": 24,
+			"name": "Satan D desaparece que cagon",
+			"indices": [
+				17,
+				16,
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WATON_ASSETS",
+	"position": [
+		410,
+		588
+	],
+	"healthicon": "satan",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		-75,
+		-640
+	],
+	"sing_duration": 3.80000000000001,
+	"scale": 1.55
+}

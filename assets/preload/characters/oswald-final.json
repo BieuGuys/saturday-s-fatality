@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-180,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sad Oswald Down"
+		},
+		{
+			"offsets": [
+				-180,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sad Oswald Idle"
+		},
+		{
+			"offsets": [
+				-179,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sad Oswald Left"
+		},
+		{
+			"offsets": [
+				-179,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sad Oswald Up"
+		},
+		{
+			"offsets": [
+				-179,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sad Oswald Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sad_oswald",
+	"position": [
+		-260,
+		700
+	],
+	"healthicon": "Oswald-end",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

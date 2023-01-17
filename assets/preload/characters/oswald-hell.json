@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "oswal idle"
+		},
+		{
+			"offsets": [
+				26,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "oswal left"
+		},
+		{
+			"offsets": [
+				-4,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "oswal down"
+		},
+		{
+			"offsets": [
+				18,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "oswal up"
+		},
+		{
+			"offsets": [
+				38,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "oswal right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-12
+			],
+			"anim": "look",
+			"fps": 24,
+			"name": "oswal mirar0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-13
+			],
+			"anim": "look_infinite",
+			"fps": 24,
+			"name": "oswal mirar0",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				84
+			],
+			"anim": "lanzar",
+			"fps": 24,
+			"name": "oswal lanzando granada q epico",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Oswald HellHole",
+	"position": [
+		10,
+		575
+	],
+	"healthicon": "oswald-hell",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		72,
+		73
+	],
+	"camera_position": [
+		-315,
+		98
+	],
+	"sing_duration": 4.1,
+	"scale": 1.2
+}

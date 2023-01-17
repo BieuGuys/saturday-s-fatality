@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "inferno oswald down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "inferno oswald idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "inferno oswald left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				134
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "inferno oswald right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				329
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "inferno oswald up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				204,
+				127
+			],
+			"indices": [],
+			"fps": 70,
+			"anim": "dodge",
+			"loop": false,
+			"name": "inferno oswald disparo sos re puta"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Inferno Oswald",
+	"position": [
+		10,
+		745
+	],
+	"healthicon": "oswald-hell",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		72,
+		73
+	],
+	"camera_position": [
+		-285,
+		-112
+	],
+	"sing_duration": 4.1,
+	"scale": 1.2
+}

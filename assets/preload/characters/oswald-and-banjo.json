@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Oswald Banjo Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Oswald Banjo Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-66
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Oswald Banjo Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Oswald Banjo Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Oswald Banjo Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-2
+			],
+			"anim": "i see you mf",
+			"fps": 24,
+			"name": "Oswald Banjo miracion camara omaga",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OSWALD_AND_BANJO",
+	"position": [
+		-165,
+		620
+	],
+	"healthicon": "Oswald-sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		50,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.15
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				155,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "OSWALD GUN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dialogue",
+			"indices": [],
+			"name": "dialogo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OSWALD IN DA END",
+	"position": [
+		-260,
+		650
+	],
+	"healthicon": "Oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		-195,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
